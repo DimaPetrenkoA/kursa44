@@ -1,0 +1,164 @@
+NEXT
+CHANGE LANGUAGE/»«Ã≈Õ»“‹ ﬂ«€ 
+EXIT
+DPR
+DonNTU
+PI-17v
+Coursework
+In the discipline 'OOP' Variant π13
+Topic 'Fly'
+Work performed
+kaf. PI
+Student Petrenko Dmitriy
+Donetsk 2018
+BACK
+CONTINUE
+HELP
+FLY DEVICES
+ADD
+DELETE ALL FLY DEVICES
+Add Fly
+Add Helicopter
+Add Jetfighter
+Add Bomber
+Add Plain
+Add Transport Aircraft
+The list was cleaned!
+List of fly devices
+No devices are created!
+Select a device
+Summary amount of devices
+ERROR! Try again:
+russian
+english
+Enter the speed (km.p.h)
+Enter the flight height(m)
+Enter the flight distance(km)
+Enter the number of passengers
+Enter the amount of screws
+Enter the capacity (l)
+Enter the class(Light\Middle\Heavy)
+Enter the number of guns(1-8)
+Enter the fight radius (m)
+Enter the producer's country (Russia\USA\France\Germany)
+Enter fight mass (kg)
+MANAGER MODE
+FLYING DEVICES INFORMATION
+DELETE ALL DEVICES
+Amount:
+Object Fly:
+Object Helicopter:
+Object Jetfighter:
+Object Bomber:
+Object Transport Aircraft:
+Light
+Middle
+Heavy
+Enter the patrol time (h)
+Show device's current data
+Edit device's data
+Delete a device
+Error!The fuel tank is full.
+1.Change Speed
+2.Change Distance
+3.Change Height
+4.Change Number of passengers
+5.Check an opportunity to fly on height
+6.Check an opportunity to fly on distance
+Your choice:
+5.Refuel
+6.Reset a fuel
+Error!Plains with age 15 or more aren't using
+The changes saved 
+5.Change fight radius
+6.Change fight mass
+7.Change patrol time
+5.Change jetfighter's type 
+6.Change producer's country
+7.Change number of guns
+Error!The lowest type
+Russia
+USA
+France
+Germany
+Error:cache file can't be open. 
+Type
+Speed
+Distance
+Number of passengers
+Height
+Number of screws
+Capacity
+Type
+Country
+Number of guns
+Fight mass
+Fight raduis
+Patrol time
+Enter new data: 
+Carrying
+Prefix
+Crew 
+Save to file
+ENTER THE PROGRAM
+ENTER THE PROGRAM
+ABOUT THE AUTHOR
+OPERATOR'S INSTRUCTIONS
+Operator's instructions
+Program's use:
+The program is using to model an entering process of flying devices's data in database.
+Program execution conditions:
+To run the program you need to have a PC of IBM type with Windows OS on it(not earlier than Win XP)
+Running the program:
+To switch a language you need to choose an appropriate paragraph in menu, using an arrows up and down and a key "Enter".
+To turn to a previous menu  you need to choose an appropriate paragraph in menu, using an arrows up and down and a key "Enter". 
+If you press an "Esc" key in main menu you'll get off the program.
+Petrenko Dmitriy
+2000
+Place of birth: Donetsk
+Place of living: Donetsk
+A PI-17v student
+Program description
+General information:
+An Fly.exe program models the work of aviation bureau.
+Functional purpose:
+The program is using in Universities to demonstrate main conceptions of OOP by coding on C++.
+Technical necesseties:
+To run the program you need a PC with 1.2 HHz and 256 RAM
+Boot:
+To boot the program you need to run Fly.exe file
+Input data:
+An input data is entering by user from the keyboard and loading from cahe file.
+Output data:
+Output data is showing on the screen and saving into cache file. 
+Flying Devices
+6. Change prefix
+Load the system data
+Enter the prefix (not more 2 symb.):
+Enter the carrying (t)::
+Enter the number of engines:
+Enter the number of crew members:
+Enter the age of plain (years):
+Enter the model of plain (100-999)
+Object Plain
+Number of engines
+Age
+Model
+Flying device of this class can fly on adjusted heigth
+Flying device of this class can't fly on adjusted heigth
+Flying device of this class can't fly on adjusted distance
+Flying device of this class can't fly on adjusted distance
+Enter the volume of fuel:
+The tank was successfully refueled!
+The tank can't be refueled!
+The fuel reseted
+The tank is empty!
+Adjusted volume of fuel can't be filled in the tank of selected helicopter!
+5.Change the plain's age
+6.Change the number of crew members
+7.Change the number of engines
+8.Change the plain's model
+9.Increase the plain's age by 1
+5.Change the carrying
+Success!
+This class of flying devices doesn't provided passengers.
